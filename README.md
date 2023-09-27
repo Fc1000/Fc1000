@@ -16,7 +16,7 @@
  
 ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
- href="https://instagram.com/nando_Cavalcanti_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-nando_cavalcabti_=instagram&logoColor=white" target="_blank"></a>
+ href="https://instagram.com/ https://instagram.com/nando_cavalcanti_?igshid=OGQ5ZDc2ODk2ZA= " target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-  https://instagram.com/nando_cavalcanti_?igshid=OGQ5ZDc2ODk2ZA=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:Cavalcantef4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/Fernando Cavalcanti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
